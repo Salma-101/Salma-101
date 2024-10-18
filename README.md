@@ -1,12 +1,12 @@
 ## Hi there, Salma here 😃👋
-<!--
+
 - A second year student at PES University, I'm a coding enthusiast with a love for literature 🔖.
-- I'm currently looking for projects to contribute to for Hacktoberfest 2024.
-- I'm also aspiring to participate in GSoC 2025.
+- Currently looking for projects to contribute to for Hacktoberfest 2024.
+- GSoC 2025 Aspirant.
 
 ### Badges
 [![An image of @salma101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salma101)](https://holopin.io/@salma101)
-
+<!--
 **Salma-101/Salma-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
