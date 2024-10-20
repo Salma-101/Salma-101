@@ -37,9 +37,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 <!--![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)--> 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Salma-101&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Salma-101&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salma-101&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api?username=Salma-101&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Salma-101&theme=maroongold&hide_border=false) 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salma-101&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Salma-101&icon=1&color=2)](https://visitcount.itsvg.in)
