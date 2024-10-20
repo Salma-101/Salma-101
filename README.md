@@ -5,10 +5,10 @@
 - GSoC 2025 Aspirant.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salma-aslam-the-explorer/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-aslam-the-explorer/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Salma-101)
 
-# 🎖️ Hacktoberfest-2024 Holopin Badges
+# 🎖️ Holopin Badges (Including Hacktoberfest 2024 Badges)
 [![An image of @salma101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salma101)](https://holopin.io/@salma101)
 
 # 💻 Tech Stack:
