@@ -9,7 +9,9 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pes2ug23cs516)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Salma-101)
 
-# 🎖️ Holopin Badges (Including Hacktoberfest 2024 Badges)
+# 🎖️ Badges (Including Hacktoberfest 2024 Badges)
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+
 [![An image of @salma101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salma101)](https://holopin.io/@salma101)
 
 # 💻 Tech Stack:
