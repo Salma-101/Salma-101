@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-aslam-246109283/) 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pes2ug23cs516)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Salma-101)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=)](https://leetcode.com/u/SalmaAslam/)
 
 # 🎖️ Badges (Including Hacktoberfest 2024 Badges)
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
