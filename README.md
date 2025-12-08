@@ -1,8 +1,8 @@
 
 # 💫 About Me:
-- A second year student at PES University, I'm a coding enthusiast with a love for literature.
-- Currently looking for projects to contribute to for Hacktoberfest 2024.
-- GSoC 2025 Aspirant.
+- A 2027 PES University undergraduate.
+- Contributed to  Hacktoberfest 2024.
+- Looking to further Contribute to Open Source.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-aslam-246109283/) 
